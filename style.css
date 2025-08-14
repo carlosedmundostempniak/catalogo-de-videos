@@ -11,7 +11,7 @@ color: rgb(33, 10, 209);
 
 }
 
-section {
+.chamada {
 background: rgb(7, 72, 212);
 padding-bottom: 80px;
 padding-top: 80px;
@@ -19,6 +19,4 @@ display: flex;
 justify-content: center;
 
 }
-
-
 
